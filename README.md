@@ -112,8 +112,9 @@ plt.imshow(img_28_gray_scaled.reshape(28,28),cmap='gray')
 ![Screenshot 2024-03-15 201446](https://github.com/Bhuvana23013531/mnist-classification/assets/147125678/b06ecfdc-ca9c-400c-89a4-6e321244fdcd)
 
 ### New Sample Data Prediction
+![Screenshot 2024-05-10 151416](https://github.com/Bhuvana-Manogar/mnist-classification/assets/147125678/b41b2c56-7b66-4a93-b3ba-f56781b81307)
 
-![Screenshot 2024-03-15 201505](https://github.com/Bhuvana23013531/mnist-classification/assets/147125678/2abaedcb-8307-4609-ae21-f22ced68b514)
+
 
 ## RESULT
 A convolutional deep neural network for digit classification and to verify the response for scanned handwritten images is developed sucessfully.
